@@ -1,0 +1,5 @@
+{
+  "name": "Visualiseur de Réseau de Petri",
+  "description": "Une application web interactive pour visualiser l'exécution d'un réseau de Petri à partir d'un journal de traces fourni sous forme de fichier CSV. Téléchargez une trace et observez les jetons se déplacer pas à pas dans le réseau.",
+  "requestFramePermissions": []
+}
